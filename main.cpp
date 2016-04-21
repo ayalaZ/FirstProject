@@ -1,6 +1,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <stdlib.h>
+//hola zoy zenon 
 void init(void)
 {
 // Activamos la fuente de luz
